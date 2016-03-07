@@ -20,7 +20,8 @@
    things. 
 
    In this project I use upower.py module written by Peter Hinch
-    https://github.com/peterhinch/micropython-micropower
+    https://github.com/peterhinch/micropython-micropower.
+    Ensure to have it installed upoewer.py in the pyBoard together with the irrigatoreBT V07.py 
 
    Give a look to upower documentation to better understand how it works.
 
