@@ -29,6 +29,6 @@
 
    October 2018  : Note : due to some changes occurred on upower.py module to be compatible with new  micropython version
    this project can work only with a micropython version like pybv10-2015-11-13-v1.5-117-gf882d53.dfu and an old version of
-   upower.py. New version of upower was not yet tested by me on this project. 
+   upower.py. New version of upower was not  tested by me on this project yet. 
    
    Roberto.
